@@ -35,17 +35,17 @@ I build scalable web applications, REST APIs, cloud-native solutions and modern 
 
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 
-![HTML](https://skillicons.dev/icons?i=html)
-
-![CSS](https://skillicons.dev/icons?i=css)
-
 ---
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react)
+## 🎨 Frontend
 
-![NextJS](https://skillicons.dev/icons?i=nextjs)
+![HTML5](https://skillicons.dev/icons?i=html)
+
+![CSS3](https://skillicons.dev/icons?i=css)
+
+![React](https://skillicons.dev/icons?i=react)
 
 
 ---
@@ -57,6 +57,12 @@ I build scalable web applications, REST APIs, cloud-native solutions and modern 
 ![Express](https://skillicons.dev/icons?i=express)
 
 ![Flask](https://skillicons.dev/icons?i=flask)
+
+### 🌱 Currently Learning
+
+![Learning](https://skillicons.dev/icons?i=go)
+
+
 
 ---
 
@@ -106,8 +112,4 @@ https://github.com/andybencomo95
 
 Email
 
-your@email.com
-
-
-
-• Open Source
+and7bencomo@gmail.com
