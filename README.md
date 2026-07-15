@@ -13,16 +13,6 @@
 
 🌎 Bogotá, Colombia
 
-🚀 Passionate about
-
-• Backend Engineering
-
-• Cloud Computing
-
-• Artificial Intelligence
-
-• Software Architecture
-
 ---
 
 ## 🛠 Tech Stack
