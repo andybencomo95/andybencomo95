@@ -78,9 +78,29 @@
 
 ## 🏆 Professional Certifications
 
-✔ IBM fullstack JavaScript
+<table>
+<tr>
+<td align="center" width="50%">
 
-✔ 	IBM — Mobile Application Development
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white">
+
+### IBM Full Stack JavaScript Developer
+
+[![Coursera](https://img.shields.io/badge/View_Credential-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/H7KTLI64OMIR)
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white">
+
+### IBM Mobile Application Development
+
+[![Coursera](https://img.shields.io/badge/View_Credential-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/KOE16RT75U3R)
+
+</td>
+</tr>
+</table>
 
 ## 🎓 Education
 
