@@ -73,8 +73,6 @@
 
 - 📱 Android Development
 -  iOS Development (Kotlin Multiplatform)
--  android  Kotlin Multiplatform
-
 
 
 
