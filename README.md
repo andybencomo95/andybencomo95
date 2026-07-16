@@ -110,15 +110,7 @@
 
 2023 - Present
 
-## 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=andybencomo95&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=andybencomo95&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andybencomo95&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Contact
 
