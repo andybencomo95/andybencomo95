@@ -19,11 +19,13 @@
 
 ### Languages
 
-![Python](https://skillicons.dev/icons?i=python)
+## 💻 Languages
+
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Python](https://skillicons.dev/icons?i=python)
 
 ---
 
@@ -65,6 +67,16 @@
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 ---
+## 📱 Mobile Development
+
+![Mobile](https://skillicons.dev/icons?i=kotlin,androidstudio)
+
+- 📱 Android Development
+-  iOS Development (Kotlin Multiplatform)
+-  android  Kotlin Multiplatform
+
+
+
 
 ## 🏆 Professional Certifications
 
