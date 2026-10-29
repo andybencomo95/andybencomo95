@@ -11,7 +11,7 @@
 🎓 Software Engineering Student (7th Semester)
 
 
-🌎 Bogotá, Colombia
+🌎 Miami USA/Bogotá, Colombia
 
 ---
 
